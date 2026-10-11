@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Información de distribución / instalación
+*.egg-info/
