@@ -7,7 +7,9 @@ Este repositorio contiene la solución modular al segundo parcial del curso de M
 
 ## Instalación y Reproducción
 
-1. Crear un entorno virtual e instalar las dependencias:
+1. Clone el repositorio a VS
+
+2. Crear un entorno virtual e instalar las dependencias:
     ```bash
     python -m venv venv
     venv\Scripts\activate  
@@ -15,4 +17,4 @@ Este repositorio contiene la solución modular al segundo parcial del curso de M
     pip install -e .
     ```
 
-2. Abrir y ejecutar el cuaderno en notebooks/parcial.ipynb desde un kernel reiniciado para reproducir todos los resultados y figuras.
+3. Abrir y ejecutar el cuaderno en notebooks/parcial.ipynb desde un kernel reiniciado para reproducir todos los resultados y figuras.
